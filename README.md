@@ -6,7 +6,7 @@ J'ai jugé ce prototype pertinent à vous partager comme démonstration de mes c
 
 ## Voir le MVP
 
-Lien de déploiement : `à renseigner`
+Lien de déploiement : https://arthurjenck-r3f-flipper.vercel.app/
 
 ## Comment jouer
 
