@@ -1,8 +1,8 @@
 # Flipper MVP
 
-Ce dépôt contient une version MVP de mon projet de flipper 3D en React Three Fiber.
+Sur ce repository, vous trouverez le MVP du projet Flipper 3D, créé avec React Three Fiber dans le cadre d'un projet Hetic.
 
-Je partage ce prototype avec les Gobelins comme démonstration de mes compétences en 3D temps réel, intégration de logique de jeu, physique et interaction dans un environnement web.
+J'ai jugé ce prototype pertinent à vous partager comme démonstration de mes compétences en 3D avec intégration de logique de jeu, interaction de l'utilisateur, le tout dans un environnement web.
 
 ## Voir le MVP
 
@@ -12,10 +12,10 @@ Lien de déploiement : `à renseigner`
 
 Une fois sur le lien :
 
-1. Ouvrir la Leva GUI.
-2. Cliquer sur `Spawn in lane` pour injecter une balle dans la rampe de lancement.
-3. Appuyer sur `Espace` pour activer le plunger.
-4. Utiliser les flippers avec :
+1. Les actions suivantes se trouvent dans le GUI Leva sur la droite.
+2. Cliquez sur `Spawn in lane` pour créer une balle dans la rampe de lancement.
+3. Maintenez `Espace` pour activer le plunger.
+4. Utilisez les flippers avec :
    - `Flèche gauche` et `Flèche droite`
    - ou `Shift gauche` et `Shift droite`
    - ou `Q` et `D`
@@ -23,18 +23,8 @@ Une fois sur le lien :
 Il est aussi possible de faire apparaître directement plusieurs balles dans le plateau avec le bouton `Spawn ball`.
 La position sur l'axe `X` peut être paramétrée avant le spawn.
 
-## Intention
-
-L'objectif de ce MVP est de poser une base technique solide pour la suite du projet :
-
-- scène 3D temps réel avec React Three Fiber
-- logique physique et collisions
-- premiers contrôles de gameplay
-- structure de projet prête à évoluer
-
 ## État du prototype
 
-Ce MVP est volontairement encore incomplet.
-Il reste peu esthétique, brut dans sa présentation, et nécessite encore du travail sur le polish, l'expérience de jeu et la direction visuelle.
+Ce MVP est encore volontairement incomplet, au stade de prototype. L'esthétique est rudimentaire et l'expérience de jeu nécessite encore du travail avant d'atteindre un ressenti vraiment satisfaisant.
 
-En revanche, il constitue une base sérieuse pour faire évoluer le projet vers une version plus aboutie.
+En revanche, la base de code, sa structure et les composants existants constituent une base sériuse pour un développement fluide vers une version plus aboutie.
