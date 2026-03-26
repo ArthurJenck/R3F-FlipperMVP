@@ -28,3 +28,19 @@ La position sur l'axe `X` peut être paramétrée avant le spawn.
 Ce MVP est encore volontairement incomplet, au stade de prototype. L'esthétique est rudimentaire et l'expérience de jeu nécessite encore du travail avant d'atteindre un ressenti vraiment satisfaisant.
 
 En revanche, la base de code, sa structure et les composants existants constituent une base sériuse pour un développement fluide vers une version plus aboutie.
+
+## Installation
+
+Ce projet a été conçu sur la base d'un monorepo pour 3 projets. Il n'est donc pas possible de l'installer en utilisant npm, je vous recommande l'alternative pnpm.
+
+Clonez le repository, puis installez les dépendances :
+
+```bash
+pnpm i
+```
+
+Ensuite, lancez le serveur de développement :
+
+```bash
+pnpm dev
+```

@@ -19,7 +19,7 @@ export default function App() {
   return (
     <>
       <Leva
-        hidden={!isDebug}
+        // hidden={!isDebug}
         titleBar={{ title: "Tweaks GUI" }}
         theme={{ sizes: { rootWidth: "350px" } }}
       />
