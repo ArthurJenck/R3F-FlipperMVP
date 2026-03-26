@@ -1,0 +1,20 @@
+{
+  "name": "@frontend/utils",
+  "devDependencies": {
+    "@frontend/tsconfig": "workspace:*"
+  },
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.5.0"
+  }
+}
